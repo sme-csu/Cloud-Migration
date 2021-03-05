@@ -18,6 +18,9 @@ Quickly assess your apps and migrate them to Azure—with free, easy-to-use tool
 - SME Sharing Recording: 
   https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Feb.5%20Methodology%20of%20migration%20an%20app%20to%20azure/Recording.url
 
+- SME Sharing PowerPoint:
+  https://microsoftapc.sharepoint.com/:b:/t/PRCCSU/EQcGw8_8U7JLg0WPJf6G0CwB_g3LlOBp3HeLVYeQxb3C3g?e=iMgDUH
+
 ### 1.2 CosmosDB migration
 
 Today's applications are required to be highly responsive and always online. To achieve low latency and high availability, instances of these applications need to be deployed in datacenters that are close to their users. Applications need to respond in real time to large changes in usage at peak hours, store ever increasing volumes of data, and make this data available to users in milliseconds.
@@ -30,3 +33,9 @@ Azure Cosmos DB is a fully managed NoSQL database for modern app development. Si
 ## 2 SME-CSU Team Cloud-Migration Project Assets
 
 Project Asset is the knowledge library of representative project experience in corresponding technical field. You can find reference and guidance here for different types of technical requirement. Each folder listed is collected from one project.
+
+### 2.1 CMPSampleCode
+
+- This repo contains sample code for Cloud Management Platform (CMP).
+
+  https://github.com/sme-csu/CMPSampleCode
