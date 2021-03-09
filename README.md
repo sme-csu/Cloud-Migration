@@ -22,7 +22,9 @@ Quickly assess your apps and migrate them to Azure—with free, easy-to-use tool
   
   嵌入一个网页播放器：
   
+  ```HTML
   <iframe width="1280" height="720" src="https://msit.microsoftstream.com/embed/video/c54ba1ff-0400-b564-652b-f1eb678d3510?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+  ```
   
 - SME Sharing PowerPoint:
   https://microsoftapc.sharepoint.com/:b:/t/PRCCSU/EQcGw8_8U7JLg0WPJf6G0CwB_g3LlOBp3HeLVYeQxb3C3g?e=iMgDUH
