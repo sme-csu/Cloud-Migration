@@ -18,6 +18,12 @@ Quickly assess your apps and migrate them to Azure—with free, easy-to-use tool
 - SME Sharing Recording: 
   https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Feb.5%20Methodology%20of%20migration%20an%20app%20to%20azure/Recording.url
 
+  https://msit.microsoftstream.com/video/c54ba1ff-0400-b564-652b-f1eb678d3510
+  
+  嵌入一个网页播放器：
+  
+  `<iframe width="1280" height="720" src="https://msit.microsoftstream.com/embed/video/c54ba1ff-0400-b564-652b-f1eb678d3510?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>`
+  
 - SME Sharing PowerPoint:
   https://microsoftapc.sharepoint.com/:b:/t/PRCCSU/EQcGw8_8U7JLg0WPJf6G0CwB_g3LlOBp3HeLVYeQxb3C3g?e=iMgDUH
 
