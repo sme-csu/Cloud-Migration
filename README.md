@@ -16,9 +16,8 @@ In order to promote the improvement and enhancement of the real performance of t
 Quickly assess your apps and migrate them to Azure—with free, easy-to-use tools.
 
 - SME Sharing Recording: 
-  https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Feb.5%20Methodology%20of%20migration%20an%20app%20to%20azure/Recording.url
-
-  https://msit.microsoftstream.com/video/c54ba1ff-0400-b564-652b-f1eb678d3510
+  
+https://msit.microsoftstream.com/video/c54ba1ff-0400-b564-652b-f1eb678d3510
   
 - SME Sharing PowerPoint:
   https://microsoftapc.sharepoint.com/:b:/t/PRCCSU/EQcGw8_8U7JLg0WPJf6G0CwB_g3LlOBp3HeLVYeQxb3C3g?e=iMgDUH
@@ -30,7 +29,7 @@ Today's applications are required to be highly responsive and always online. To 
 Azure Cosmos DB is a fully managed NoSQL database for modern app development. Single-digit millisecond response times, and automatic and instant scalability, guarantee speed at any scale. Business continuity is assured with [SLA-backed](https://azure.microsoft.com/support/legal/sla/cosmos-db)availability and enterprise-grade security. App development is faster and more productive thanks to turnkey multi region data distribution anywhere in the world, open source APIs and SDKs for popular languages. As a fully managed service, Azure Cosmos DB takes database administration off your hands with automatic management, updates and patching. It also handles capacity management with cost-effective serverless and automatic scaling options that respond to application needs to match capacity with demand.
 
 - SME Sharing Recording: 
-  https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Nov.6%20Cosmos%20DB%20migration/Recording.url
+  https://msit.microsoftstream.com/video/7317a1ff-0400-9fb2-ff4f-f1eb200ab68a
 
 ## 2 SME-CSU Team Cloud-Migration Project Assets
 
