@@ -30,6 +30,12 @@ Azure Cosmos DB is a fully managed NoSQL database for modern app development. Si
 
 - SME Sharing Recording: 
   https://msit.microsoftstream.com/video/7317a1ff-0400-9fb2-ff4f-f1eb200ab68a
+  
+### 1.3 Migrate open-source databases to Azure
+  
+### 1.4 Azure Arc & Azure Stack HCI intro
+- SME Sharing Recording
+  https://microsoftapc-my.sharepoint.com/:v:/g/personal/zhezeng_microsoft_com/ERDdN9I2zQ1MtXe2MVtKY5IB0XJM6AYEvAcSnCBDnIzEQw
 
 ## 2 SME-CSU Team Cloud-Migration Project Assets
 
